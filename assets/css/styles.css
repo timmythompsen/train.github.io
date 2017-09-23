@@ -1,0 +1,24 @@
+.jumbotron {
+	margin-top: 20px;
+	background-image: url("./train.jpg");
+	color: white;
+}
+
+#train-table{
+	background-color: #384E50;
+
+}
+
+.panel-body{
+	background-color: #384E50;
+	color: white;
+}
+
+.panel-heading{
+	background-color: #000000;
+	color: white;
+}
+
+body{
+	background-color: #E7EDED;
+}
